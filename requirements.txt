@@ -43,7 +43,7 @@ nbformat==4.4.0
 notebook==5.6.0
 oauthlib==2.0.6
 pandocfilters==1.4.2
-paramiko==2.4.1
+paramiko==2.10.1
 parso==0.1.1
 pendulum==1.4.1
 pexpect==4.6.0
